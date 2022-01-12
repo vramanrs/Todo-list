@@ -1,0 +1,27 @@
+body {
+  background-image: url("https://img.freepik.com/free-photo/gray-painted-background_53876-94041.jpg?size=626&ext=jpg");
+}
+
+table,
+th,
+td {
+  border: 2px solid white;
+  color: white;
+  font-weight: 500;
+}
+.ts {
+  color: white;
+  font-weight: 300;
+}
+.typing,
+li {
+  color: white;
+  font-weight: 500;
+}
+a {
+  color: white;
+  font-weight: 500;
+}
+box {
+  font-weight: 500;
+}
